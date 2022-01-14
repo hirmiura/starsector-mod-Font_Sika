@@ -2,7 +2,7 @@
     "id": "FontSika",
     "name": "zja Font Sika",
     "author": "hirmiura",
-    "version": "0.1.1",
+    "version": "0.2.0",
     "description": "Sika is a bitmap font generated from Cica by Bitmap Font Generator. Cica the original font is under SIL Open Font License 1.1. So we MUST NOT call this generated font as Cica.",
     "gameVersion": "0.95.1a-RC6"
 }
