@@ -1,0 +1,9 @@
+{
+    "masterVersionFile": "https://raw.githubusercontent.com/hirmiura/starsector-mod-Font_Sika/main/FontSika.version",
+    "modName": "zja Font Sika",
+    "modVersion": {
+        "major": 0,
+        "minor": 1,
+        "patch": 1
+    }
+}
