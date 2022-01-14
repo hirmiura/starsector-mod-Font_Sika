@@ -46,3 +46,7 @@ Cica は SIL Open Font License の Reserved Font Name なので Cica の名称�
 
 -   [Alex の投稿](https://fractalsoftworks.com/forum/index.php?topic=17921.msg281079#msg281079)
 -   [How to change the font used in game](https://fractalsoftworks.com/forum/index.php?topic=5481.0)
+
+# ソース
+
+https://github.com/hirmiura/starsector-mod-Font_Sika
