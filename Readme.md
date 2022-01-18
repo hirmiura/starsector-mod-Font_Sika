@@ -1,5 +1,15 @@
 # Font Sika
 
+**Obsolete 移行しました。**
+- [Font Sika for Insignia](https://github.com/hirmiura/starsector-mod-Font_Sika_for_Insignia)
+- [Font TamaTou for Orbitron](https://github.com/hirmiura/starsector-mod-Font_TamaTou_for_Orbitron)
+
+フォント合成の都合で2つに分離しました。  
+Victor's Pixel Font の置き換えは現時点ではありません。  
+必要になったら追加するかもしれません。
+
+---
+
 [Cica](https://github.com/miiton/Cica)から生成したビットマップフォントで置き換えます。
 
 Cica は SIL Open Font License の Reserved Font Name なので Cica の名称は使えず、便宜的に Sika と名乗っています。
